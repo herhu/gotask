@@ -11,4 +11,3 @@ func ProcessData(data map[string]interface{}) {
         log.Println("No 'name' field found in the JSON data")
     }
 }
-
